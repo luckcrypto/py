@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fyi.luck.paystreak",
+      "sha256_cert_fingerprints": ["PASTE_THE_APP_SIGNING_SHA256_FROM_PLAY_CONSOLE"]
+    }
+  }
+]
