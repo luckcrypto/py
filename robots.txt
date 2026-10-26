@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://playpaystreak.com/sitemap.xml
