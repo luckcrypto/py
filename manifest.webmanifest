@@ -3,7 +3,7 @@
   "short_name": "Pay Streak",
   "description": "A gold panning game in a clear mountain stream.",
   "id": "/",
-  "start_url": "/play.html",
+  "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#0f1b18",

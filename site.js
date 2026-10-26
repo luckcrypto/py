@@ -42,7 +42,7 @@
     } else {
       // beside the stylesheet, so the river loads from the right folder even on a 404 page served from a deeper path
       const sheet = document.querySelector('link[rel="stylesheet"][href*="site.css"]'), ver = (document.querySelector('meta[name="asset-version"]') || {}).content;
-      const rel = 'play.html?mode=ambient&stream=' + code + (ver ? '&v=' + ver : '');
+      const rel = 'river.html?mode=ambient&stream=' + code + (ver ? '&v=' + ver : '');
       frame.src = sheet ? new URL(rel, sheet.href).href : rel;
     }
     river.appendChild(frame);
