@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["3S35RJ7KGV.fyi.luck.paystreak"],
+        "components": [
+          { "/": "/play.html", "comment": "Streams and claims open in the app" }
+        ]
+      }
+    ]
+  }
+}
